@@ -18,4 +18,5 @@ function add2(n) {
 
   // Feel free to move things around!
   two = 2
+  n = 5
 }
